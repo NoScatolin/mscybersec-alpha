@@ -1,0 +1,125 @@
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url("../img/bg.jpg");
+}
+
+.menu-principal {
+	background-image: url("../img/menu.png");
+	height: 100px;
+}
+
+main {
+	margin: 0 auto;
+	width: 100%;
+	float: left;
+	position: relative;
+
+}
+
+.logo {
+	float: left;
+	padding: 10px;
+	padding-left: 10px;
+	padding-top: 8px;
+
+}
+
+.redes ul li {
+	padding-top: 15px;
+	margin-left: 20px;
+	display: inline-block;
+	list-style: none;
+}
+
+.redes {
+	float: right;
+	padding-right: 30px;
+}
+
+.contact-form {
+	width: 85%;
+	max-width: 600px;
+	background: #f1f1f1;
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 30px 40px;
+	box-sizing: border-box;
+	border-radius: 8px;
+	text-align: center;
+	box-shadow: 0 0 20px #000000b3;
+	font-family: "Montserrat";
+}
+
+.contact-form {
+	margin-top: 0;
+	font-weight: 200;
+}
+
+.txtb {
+	border: 1px solid gray;
+	margin: 8px	0;
+	padding: 12px 18px;
+	border-radius: 8px;
+}
+
+.txtb label {
+	display: block;
+	text-align: left;
+	color: #333;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.txtb input, .txtb textarea {
+	width: 100%;
+	border: none;
+	background: none;
+	outline: none;
+	font-size: 18px;
+	margin-top: 6px;
+}
+
+.btn {
+	display: block;
+	background: #00006c;
+	padding: 14px 0;
+	color: white;
+	text-transform: uppercase;
+	cursor: pointer;
+	margin-top: 8px;
+	width: 100%;
+}
+
+.button ul li {
+	float: right;
+	padding-top: 5px;
+	margin-left: 30px;
+	display: inline-block;
+	list-style: none;
+}
+
+button {
+	display: block;
+	margin: 0 auto;
+	width: 145px;
+	height: 55px;
+	background-color: transparent;
+	font-color: white;
+	color: #ffffff;
+	font-weight: bolder;
+	border-radius: 3px;
+	border: 2px solid;
+}
+
+button:hover {
+	background-color: #0f4071;
+	color: #ffffff;
+	border-right: 10px;
+	transition: 0.5s;
+}
