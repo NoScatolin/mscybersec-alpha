@@ -116,3 +116,83 @@ button:hover {
 	left: 0;
 }
 
+h1 {
+	color: white;
+	font-family: "Helvetica";
+	padding-top: 200px;
+	text-align: center;
+	font-weight: bolder;
+	font-style: underline;
+}
+
+.hrp {
+	color: white;
+	background-color: white;
+	height: 1px;
+	width: 190px;
+	margin: 0 auto;
+}
+
+p {
+	color: white;
+	margin: 0 auto;
+	font-family: "Helvetica";
+	font-size: 18px;
+	padding-left: 25px;
+	padding-right: 10px;
+}
+
+.sql {
+	color: white;
+	font-family: "Helvetica";
+	margin-top: -110px;
+}
+
+.xss {
+	color: white;
+	font-family: "Helvetica";
+	margin-top: -130px;
+}
+
+.hrs {
+	color: white;
+	background-color: white;
+	height: 1px;
+	width: 300px;
+	margin: 0 auto;
+}
+
+.hrx {
+	color: white;
+	background-color: white;
+	height: 1px;
+	width: 200px;
+	margin: 0 auto;
+}
+
+.mid {
+	color: white;
+	font-family: "Helvetica";
+	padding-left: 25px;
+	padding-right: 10px;
+}
+
+.tprocesso {
+	text-align: center;
+
+	color: white;
+	font-family: "Helvetica";
+	margin-top: -150px;
+	padding-left: 25px;
+	padding-right: 10px;
+}
+
+.hrpent {
+	color: white;
+	background-color: white;
+	height: 1px;
+	width: 320px;
+	margin: 0 auto;
+	padding-left: 25px;
+	padding-right: 10px;
+}
