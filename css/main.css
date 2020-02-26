@@ -119,7 +119,7 @@ button:hover {
 h1 {
 	color: white;
 	font-family: "Helvetica";
-	padding-top: 200px;
+	padding-top: 120px;
 	text-align: center;
 	font-weight: bolder;
 	font-style: underline;
@@ -205,3 +205,11 @@ p {
 	position: absolute;
 	margin-left: 10px;
 }
+
+.hretapa {
+	background-color: white;
+	height: 1.5px;
+	width: 850px;
+	margin: 0 auto;
+}
+
