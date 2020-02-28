@@ -6,6 +6,8 @@ body {
 	background-image: url("../img/bg.jpg");
 	background-attachment: fixed;
 	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: black;
 }
 
 .menu-principal {
