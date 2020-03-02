@@ -6,6 +6,7 @@ body {
 	background-image: url("../img/bgserv.jpg");
 	background-attachment: fixed;
 	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 .menu-principal {
@@ -23,9 +24,9 @@ main {
 
 .logo {
 	float: left;
-	padding: 10px;
-	padding-left: 10px;
-	padding-top: 8px;
+	padding: 5px;
+	padding-left: 30px;
+	padding-top: 1px;
 
 }
 

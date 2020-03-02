@@ -24,9 +24,9 @@ main {
 
 .logo {
 	float: left;
-	padding: 10px;
-	padding-left: 10px;
-	padding-top: 8px;
+	padding: 5px;
+	padding-left: 30px;
+	padding-top: 1px;
 
 }
 
@@ -43,7 +43,7 @@ main {
 }
 
 .titulo {
-	padding-top: 80px;
+	padding-top: -5px;
 	color: white;
 	text-align: center;
 }
